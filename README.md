@@ -1,2 +1,1 @@
-# mybio
-My Discord Bio
+
